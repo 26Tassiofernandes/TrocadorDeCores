@@ -23,7 +23,7 @@
 ##
 
 ### Conceitos tratados nesse projeto
-<p>arrays
+<p>arrays <br>
 document.getElementById()
 document.body.style.backgroundColor
 Math.floor()
