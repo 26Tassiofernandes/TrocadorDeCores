@@ -1,4 +1,4 @@
-### Trocador de Cores 🤖
+### Trocador de Cores 🎨
 
 <div style="display: inline_block">
 
@@ -22,8 +22,9 @@
 
 ##
 
-### Conceitos tratados nesse projeto
-<p>- arrays <br>
+### 📚 Conceitos tratados nesse projeto
+<p>
+- arrays <br>
 - document.getElementById() <br>
 - document.body.style.backgroundColor <br>
 - Math.floor() <br>
