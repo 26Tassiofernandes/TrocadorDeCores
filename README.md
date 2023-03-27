@@ -39,6 +39,3 @@
 <p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
 
 ##
-
-### 👀 Observação
-<p> As fontes usadas na imagem foram baixadas em sites de terceiros, portanto, podem não funcionar em alguns navegadores.</p>
