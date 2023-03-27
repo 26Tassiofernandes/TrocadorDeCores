@@ -9,8 +9,8 @@
 
 <a href="https://26tassiofernandes.github.io/TrocadorDeCores/cores.html" rel="external" >Trocador de Cores</a>
 
+<img src="https://user-images.githubusercontent.com/86972667/227834642-06e3f125-80d7-4f87-99f1-359561a045e2.png" alt="imagem">
 </div>
-
 
 
 ##
