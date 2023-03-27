@@ -23,12 +23,12 @@
 ##
 
 ### Conceitos tratados nesse projeto
-<p>arrays <br>
-document.getElementById()
-document.body.style.backgroundColor
-Math.floor()
-Math.random()
-array.length
+<p>- arrays <br>
+- document.getElementById() <br>
+- document.body.style.backgroundColor <br>
+- Math.floor() <br>
+- Math.random() <br>
+- array.length 
 </p>
 
 
