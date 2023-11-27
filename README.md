@@ -17,25 +17,33 @@
 ##
 
 ### 📜 Descrição 
-<p>Um pequeno trocador de cores para um fundo de tela aleatório. Projeto ótimo para trabalhar com DOM.
 
-</p>
-
-##
-
-### 📚 Conceitos tratados nesse projeto
-<p>
-- arrays <br>
-- document.getElementById() <br>
-- document.body.style.backgroundColor <br>
-- Math.floor() <br>
-- Math.random() <br>
-- array.length 
-</p>
+Um pequeno programa que altera a cor de fundo da tela do usuário com apenas um clique.
 
 ##
 
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+### 📚 Tecnologias tratadas nesse projeto
+
+- HTML
+- CSS
+- JavaScript
+
+##
+
+### ⚙ Requisitos
+
+- Ter um navegador da Web Moderno instalado em sua máquina.
+
+##
+
+### ⚒️ Como rodar?
+
+O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
 
 ##
